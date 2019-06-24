@@ -1,2 +1,2 @@
 # sample
-Sample Lap
+Sample Lab
